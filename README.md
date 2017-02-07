@@ -1,1 +1,1 @@
-# testeauto
+Operatii de baza CRUD
